@@ -10,5 +10,10 @@ VST plugins Used:
 - Ample Guitar M Lite - https://www.amplesound.net/en/download.asp
 - Ample Metal Guitar - https://www.amplesound.net/en/download.asp
 - Podolski - u-he.com
-- Zebralettw - u-he.com
-- Plex
+- Zebralette - u-he.com
+
+Trying out...
+- MS3 - VSTi instrument Strummer - http://www.vst4free.com/free_vst.php?plugin=Strummer&id=2388
+- Cute Emily Guitar - http://www.vst4free.com/free_vst.php?plugin=Cute_Emily_Guitar&id=2315
+- Revitar 2 - http://www.vst4free.com/free_vst.php?id=1348
+- Voxengo Boogex - Guitar Amp - https://www.voxengo.com/product/boogex/
