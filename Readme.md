@@ -17,3 +17,7 @@ Trying out...
 - Cute Emily Guitar - http://www.vst4free.com/free_vst.php?plugin=Cute_Emily_Guitar&id=2315
 - Revitar 2 - http://www.vst4free.com/free_vst.php?id=1348
 - Voxengo Boogex - Guitar Amp - https://www.voxengo.com/product/boogex/
+
+https://www.youtube.com/watch?v=LZxlvh96uKE - Grace Community Church
+https://soundcloud.com/outsidecampers/the-power-of-the-cross-guitar
+(option - start with Did err such love?)
