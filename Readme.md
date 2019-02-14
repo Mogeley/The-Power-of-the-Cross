@@ -20,3 +20,5 @@ VST plugins Used:
 https://www.youtube.com/watch?v=LZxlvh96uKE - Grace Community Church
 https://soundcloud.com/outsidecampers/the-power-of-the-cross-guitar
 (option - start with Did err such love?)
+
+https://open.spotify.com/track/32YXN31b62obefblpwy2un?si=He1hqZuMSoKubchVtp3Gjg (nice bass line)
